@@ -43,7 +43,7 @@
 
 - JavaScript array-copy operations create shallow copies. (All standard built-in copy operations with any JavaScript objects create shallow copies, rather than deep copies).
 
-### 
+### Html events
 
 >HTML has the ability to let events trigger actions in a browser, like starting a JavaScript when a user clicks on an element.
 >
