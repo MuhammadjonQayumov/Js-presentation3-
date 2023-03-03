@@ -52,3 +52,21 @@
 >Below are the global event attributes that can be added to HTML elements to define event actions.
 >
 >![](/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png)
+
+
+### DOM METHODS
+
+###### Some commonly used HTML DOM methods:
+
+- getElementById (id) - Get node (element) with the specified id
+- appendChild (node) - insert a new child node (element)
+- removeChild (node) - Removes the child node (element)
+
+###### Some commonly used HTML DOM attributes:
+
+- innerHTML - node (element) text value
+- parentNode - nodes (elements) of the parent node
+- childNodes - node (element) of the child node
+- attributes - node (element) attribute node
+
+>![](/document.avif)
